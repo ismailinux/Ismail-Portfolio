@@ -35,7 +35,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="my-resume.pdf" // Path relative to public folder
+                href="Opaluwa's-Resume.pdf" // Path relative to public folder
                 download="Ismail's-CV.pdf" // Suggested filename when downloaded
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300 inline-flex items-center gap-2"
               >

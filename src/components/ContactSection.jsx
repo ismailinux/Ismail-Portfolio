@@ -108,7 +108,7 @@ export const ContactSection = () => {
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
                     {/* +1 (123) 456-7890 */}
-                    +(234) 707-087-1074
+                    +(234) 911-346-9822
                   </a>
                 </div>
               </div>
